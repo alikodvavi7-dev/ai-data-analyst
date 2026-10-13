@@ -26,7 +26,7 @@ How to Run
 1. Clone the repository.
 2. Install dependencies using pip install -r requirements.txt.
 3. Configure your Google Gemini API key in Streamlit secrets.
-4. Run the application using streamlit run app.py.
+4. Run the application using streamlit run ai-data-analyst.py
 
 Project Purpose
 
